@@ -8,12 +8,12 @@ tags: tag1 tag2 tag3 tag4
 
 **쵸비의 여름방학 보내기 **
 
-<!-- <style>
-    .content {
-        background-size:cover;
+<style>
+    img {
+        width:100%;
         max-height:100vh;
     }
-</style> -->
+</style>
 
 *롯데월드를 갔다 왔습니다 매우 재미있었습니다.*
 
@@ -33,7 +33,11 @@ tags: tag1 tag2 tag3 tag4
 
 <img src='http://blogfiles.naver.net/20150206_19/haenasoft_1423202225596yvbTS_PNG/youtube_%C0%AF%C6%A9%BA%EA_2.png'>
 
--유튜브를 보면서 유익한 시간을 가졌습니다
+- 유튜브를 보면서 유익한 시간을 가졌습니다
+
+<img src='http://blogfiles.naver.net/20150717_238/jgtalk_1437105069833N1u2e_JPEG/gyO7UCSiP.jpg'>
+
+- 오랜만에 중학교 친구들과 놀았습니다
 
 [슬픕니다..](http://naver.com)
 ***
