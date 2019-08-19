@@ -16,9 +16,9 @@ tags: tag1 tag2 tag3 tag4
 
 <img src='http://blogfiles.naver.net/MjAxOTAzMDFfNDUg/MDAxNTUxMzY4ODU1OTk3.6DZyh45bu3l_BN7j6IkBEgcPZWGXbPcIond3cFUw19Eg.xQDZOIEIi_O_wSkD4OmDLPCBeKrNGOKO3dHP5H9aFjYg.JPEG.rlaalswl7533/IMG_6468.JPG'>
 
-- 여자친구랑 헤어졌습니다..
-
 `먹고자고 싸고 놀았습니다...`
+
+- 여자친구랑 헤어졌습니다..
 
 [슬픕니다..](http://naver.com)
 ***
