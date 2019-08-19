@@ -22,7 +22,7 @@ tags: tag1 tag2 tag3 tag4
     }
 </style>
 
-*<p class='imp'>롯데월드</p>를 갔다 왔습니다 매우 재미있었습니다.*
+*롯데월드 를 갔다 왔습니다 매우 재미있었습니다.*
 
 
 ><img class='1' src='https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/68331913_1990571991042218_8015157161933930496_n.jpg?_nc_cat=102&_nc_oc=AQmMyvH5RlXEBtvySFh6Y4LbAUzCRYWDhfvGbqkkwbMIAf-gkGBWt8_7F_GWCa2V1g8&_nc_ht=scontent-icn1-1.xx&oh=fbc4311e4572d4765e9fdaa6f56494a0&oe=5E15521D'>
@@ -36,15 +36,15 @@ tags: tag1 tag2 tag3 tag4
 
 `먹고자고 싸고 놀았습니다...`
 
-- <p class='imp'>여자친구</p>랑 헤어졌습니다..
+- <div class='imp'>여자친구</div>랑 헤어졌습니다..
 
 <img class='1' src='http://blogfiles.naver.net/20150206_19/haenasoft_1423202225596yvbTS_PNG/youtube_%C0%AF%C6%A9%BA%EA_2.png'>
 
-- <p class='imp'>유튜브</p>를 보면서 유익한 시간을 가졌습니다
+- <div class='imp'>유튜브</div>를 보면서 유익한 시간을 가졌습니다
 
 <img src='http://blogfiles.naver.net/20150717_238/jgtalk_1437105069833N1u2e_JPEG/gyO7UCSiP.jpg'>
 
-- 오랜만에 <p class='imp'>중학교 친구</p>들과 놀았습니다
+- 오랜만에 중학교 친구들과 놀았습니다
 
 [슬픕니다..](http://naver.com)
 ***
