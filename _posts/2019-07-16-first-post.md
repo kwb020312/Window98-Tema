@@ -51,7 +51,14 @@ tags: tag1 tag2 tag3 tag4
 
 <img src='http://blogfiles.naver.net/20150717_238/jgtalk_1437105069833N1u2e_JPEG/gyO7UCSiP.jpg'>
 
+
 - 오랜만에 중학교 친구들과 놀았습니다
+<br>
+<br>
+<br>
+<img src='https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/2398/4796.gif'>
+
+- <div class='imp'>CSS</div> 에 대해서 공부해봤습니다
 
 [슬픕니다..](http://naver.com)
 ***
