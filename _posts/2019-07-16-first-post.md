@@ -21,6 +21,9 @@ tags: tag1 tag2 tag3 tag4
         font-size:2rem;
         display:inline-block;
     }
+    ul {
+        display:inline-block;
+    }
 </style>
 
 *롯데월드 를 갔다 왔습니다 매우 재미있었습니다.*
