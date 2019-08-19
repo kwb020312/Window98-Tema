@@ -19,6 +19,7 @@ tags: tag1 tag2 tag3 tag4
         border-bottom:1px dotted black;
         font-weight:2rem;
         font-size:2rem;
+        display:inline-block;
     }
 </style>
 
