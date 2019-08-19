@@ -8,9 +8,18 @@ tags: tag1 tag2 tag3 tag4
 
 **쵸비의 여름방학 보내기 **
 
+<style>
+    .content {
+        background-size:cover;
+        max-height:100vh;
+    }
+</style>
+
 *롯데월드를 갔다 왔습니다 매우 재미있었습니다.*
 
-><img src='https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/68331913_1990571991042218_8015157161933930496_n.jpg?_nc_cat=102&_nc_oc=AQmMyvH5RlXEBtvySFh6Y4LbAUzCRYWDhfvGbqkkwbMIAf-gkGBWt8_7F_GWCa2V1g8&_nc_ht=scontent-icn1-1.xx&oh=fbc4311e4572d4765e9fdaa6f56494a0&oe=5E15521D'>
+<div class='content'>
+    ><img src='https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/68331913_1990571991042218_8015157161933930496_n.jpg?_nc_cat=102&_nc_oc=AQmMyvH5RlXEBtvySFh6Y4LbAUzCRYWDhfvGbqkkwbMIAf-gkGBWt8_7F_GWCa2V1g8&_nc_ht=scontent-icn1-1.xx&oh=fbc4311e4572d4765e9fdaa6f56494a0&oe=5E15521D'>
+<div>
 
 >>아이들과 같이 사진도 찍었습니다
 
@@ -19,6 +28,8 @@ tags: tag1 tag2 tag3 tag4
 `먹고자고 싸고 놀았습니다...`
 
 - 여자친구랑 헤어졌습니다..
+
+- ㅎ
 
 [슬픕니다..](http://naver.com)
 ***
