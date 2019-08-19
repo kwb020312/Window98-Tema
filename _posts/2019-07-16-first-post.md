@@ -23,7 +23,9 @@ tags: tag1 tag2 tag3 tag4
 
 >>아이들과 같이 사진도 찍었습니다
 
-<img src='http://blogfiles.naver.net/MjAxOTAzMDFfNDUg/MDAxNTUxMzY4ODU1OTk3.6DZyh45bu3l_BN7j6IkBEgcPZWGXbPcIond3cFUw19Eg.xQDZOIEIi_O_wSkD4OmDLPCBeKrNGOKO3dHP5H9aFjYg.JPEG.rlaalswl7533/IMG_6468.JPG'>
+<div class='content'>
+    <img src='http://blogfiles.naver.net/MjAxOTAzMDFfNDUg/MDAxNTUxMzY4ODU1OTk3.6DZyh45bu3l_BN7j6IkBEgcPZWGXbPcIond3cFUw19Eg.xQDZOIEIi_O_wSkD4OmDLPCBeKrNGOKO3dHP5H9aFjYg.JPEG.rlaalswl7533/IMG_6468.JPG'>
+<div>
 
 `먹고자고 싸고 놀았습니다...`
 
