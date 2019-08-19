@@ -8,12 +8,12 @@ tags: tag1 tag2 tag3 tag4
 
 **쵸비의 여름방학 보내기 **
 
-<style>
+<!-- <style>
     .content {
         background-size:cover;
         max-height:100vh;
     }
-</style>
+</style> -->
 
 *롯데월드를 갔다 왔습니다 매우 재미있었습니다.*
 
